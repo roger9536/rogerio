@@ -1,0 +1,231 @@
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="||PT|| SPORT TV +" tvg-logo="http://obsfullhd.tv:25461/images/66616ba1aad26a0205ac5f58e14c40f8.png" group-title="PORTUGAL",||PT|| SPORT TV +
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9717
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="||pt|| SPORT TV + LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/66616ba1aad26a0205ac5f58e14c40f8.png" group-title="PORTUGAL",||pt|| SPORT TV + LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36978
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="||PT|| SPORT TV HD" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||PT|| SPORT TV HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9718
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="||PT|| SPORT TV FHD+" tvg-logo="http://obsfullhd.tv:25461/images/66616ba1aad26a0205ac5f58e14c40f8.png" group-title="PORTUGAL",||PT|| SPORT TV FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16809
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="||PT|| SPORT TV1 SD" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||PT|| SPORT TV1 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9728
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="||PT|| SPORT TV 1  LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/4b159d680d943ccad44cbd15f6d8bdfa.png" group-title="PORTUGAL",||PT|| SPORT TV 1  LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36979
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="||PT|| SPORT TV 1 4k" tvg-logo="http://obsfullhd.tv:25461/images/4b159d680d943ccad44cbd15f6d8bdfa.png" group-title="PORTUGAL",||PT|| SPORT TV 1 4k
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37016
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="||PT|| SPORT TV2 HD" tvg-logo="http://obsfullhd.tv:25461/images/671448016f677c48b17db2e56bd70d65.png" group-title="PORTUGAL",||PT|| SPORT TV2 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9731
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="||pt|| SPORT TV 2 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/671448016f677c48b17db2e56bd70d65.png" group-title="PORTUGAL",||pt|| SPORT TV 2 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36980
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="||PT|| SPORTV 2 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/671448016f677c48b17db2e56bd70d65.png" group-title="PORTUGAL",||PT|| SPORTV 2 FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16810
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="||pt|| SPORT TV 2  4K" tvg-logo="http://obsfullhd.tv:25461/images/671448016f677c48b17db2e56bd70d65.png" group-title="PORTUGAL",||pt|| SPORT TV 2  4K
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37017
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="||PT|| SPORT TV 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORT TV 3 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9733
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="||PT|| SPORT TV3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORT TV3 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9734
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="||PT|| SPORT TV3 HD" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORT TV3 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9735
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="||PT|| SPORT TV3 SD" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORT TV3 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9736
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="||pt|| SPORT TV 3 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||pt|| SPORT TV 3 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36981
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="||PT|| SPORT TV4 FHD" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORT TV4 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9737
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="||PT|| SPORT TV4 SD" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORT TV4 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9738
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="||pt|| SPORT TV 4 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/fe5b671841a1a66f73cf339e4a3929de.png" group-title="PORTUGAL",||pt|| SPORT TV 4 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36982
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="||PT|| SPORTV 4 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/040d04b3a1ae30084eff1d40abd261c5.png" group-title="PORTUGAL",||PT|| SPORTV 4 FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16811
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="||PT|| SPORT TV5 FHD" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||PT|| SPORT TV5 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9739
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="||PT|| SPORT TV5 HD" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||PT|| SPORT TV5 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9740
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="||PT|| SPORT TV5 SD" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||PT|| SPORT TV5 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9741
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="||pt|| SPORT TV 5 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||pt|| SPORT TV 5 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36983
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="||PT|| SPORTV 5 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/5f7f86e00e1d4b281a2aae69a61715a6.png" group-title="PORTUGAL",||PT|| SPORTV 5 FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16812
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="||PT|| SPORT TV 6 HD" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 6 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/66792
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="||PT|| SPORT TV 6 FHD" tvg-logo="" group-title="PORTUGAL",||PT|| SPORT TV 6 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/66793
+#EXTINF:-1 tvg-id="NBATVInternational.us" tvg-name="||pt|| SPORT TV NBA LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/c335a4a554815dc560235cf339801260.png" group-title="PORTUGAL",||pt|| SPORT TV NBA LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36984
+#EXTINF:-1 tvg-id="Eleven1Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 1 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9742
+#EXTINF:-1 tvg-id="Eleven1Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 1 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9743
+#EXTINF:-1 tvg-id="Eleven2Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 2 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9744
+#EXTINF:-1 tvg-id="Eleven2Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 2 SD" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 2 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9745
+#EXTINF:-1 tvg-id="Eleven2Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 2 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9746
+#EXTINF:-1 tvg-id="Eleven3Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 3 SD" tvg-logo="http://obsfullhd.tv:25461/images/3475ebd9a068546bcde697f23efb2e7f.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 3 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9748
+#EXTINF:-1 tvg-id="Eleven3Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/3475ebd9a068546bcde697f23efb2e7f.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 3 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9749
+#EXTINF:-1 tvg-id="Eleven3Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/3475ebd9a068546bcde697f23efb2e7f.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 3 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9750
+#EXTINF:-1 tvg-id="Eleven4Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 4 SD" tvg-logo="http://obsfullhd.tv:25461/images/ef7204e55384ffe49c4f8b8296cb969e.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 4 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9798
+#EXTINF:-1 tvg-id="Eleven4Portugal.pt" tvg-name="||PT|| ELEVENS SPORTS 4 HD" tvg-logo="http://obsfullhd.tv:25461/images/ef7204e55384ffe49c4f8b8296cb969e.png" group-title="PORTUGAL",||PT|| ELEVENS SPORTS 4 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9799
+#EXTINF:-1 tvg-id="Eleven4Portugal.pt" tvg-name="||PT|| ELEVENS SPORTS 4 FHD" tvg-logo="http://obsfullhd.tv:25461/images/ef7204e55384ffe49c4f8b8296cb969e.png" group-title="PORTUGAL",||PT|| ELEVENS SPORTS 4 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9800
+#EXTINF:-1 tvg-id="Eleven5Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 5 HD" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 5 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9796
+#EXTINF:-1 tvg-id="Eleven5Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 5 FHD" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 5 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9797
+#EXTINF:-1 tvg-id="Eleven6Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 6 SD" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 6 SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9793
+#EXTINF:-1 tvg-id="Eleven6Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 6 HD" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 6 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9794
+#EXTINF:-1 tvg-id="Eleven6Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 6 FHD" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 6 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9795
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="||PT|| EUROSPORT 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/311af97d1561f7130762f5761406ec91.png" group-title="PORTUGAL",||PT|| EUROSPORT 1 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9787
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="||PT|| EUROSPORT 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/311af97d1561f7130762f5761406ec91.png" group-title="PORTUGAL",||PT|| EUROSPORT 1 FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9788
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="||PT|| EUROSPORT 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/fbc75254bdfc1521f7034acfa50fb833.png" group-title="PORTUGAL",||PT|| EUROSPORT 2 HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9786
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="||PT|| BENFICA TV HD" tvg-logo="http://obsfullhd.tv:25461/images/46a0df9644737aa2bf7a326e0203ae1a.png" group-title="PORTUGAL",||PT|| BENFICA TV HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9791
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="||PT|| BENFICA TV FHD (NOS)" tvg-logo="http://obsfullhd.tv:25461/images/46a0df9644737aa2bf7a326e0203ae1a.png" group-title="PORTUGAL",||PT|| BENFICA TV FHD (NOS)
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9792
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="||PT|| SPORTING TV HD" tvg-logo="http://obsfullhd.tv:25461/images/cfe96ea3f88a674def33c66ebf0dbd6b.png" group-title="PORTUGAL",||PT|| SPORTING TV HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9789
+
+#EXTINF:-1 tvg-id="CanalHollywoodPortugal.pt" tvg-name="||PT|| HOLLYWOOD HD" tvg-logo="http://obsfullhd.tv:25461/images/7d069e9e4b49faff10bfa8a43909f13f.png" group-title="PORTUGAL",||PT|| HOLLYWOOD HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9852
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="||PT|| CINEMUNDO" tvg-logo="http://obsfullhd.tv:25461/images/bb22668f579a16332705a994c8edef8b.png" group-title="PORTUGAL",||PT|| CINEMUNDO
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9820
+#EXTINF:-1 tvg-id="CineMundo.pt" tvg-name="||PT|| CINEMUNDO HD" tvg-logo="http://obsfullhd.tv:25461/images/bb22668f579a16332705a994c8edef8b.png" group-title="PORTUGAL",||PT|| CINEMUNDO HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9821
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="||PT|| TV CINE ACTION SD" tvg-logo="http://obsfullhd.tv:25461/images/016f660d4bdb0baa1e7d6781871097bd.png" group-title="PORTUGAL",||PT|| TV CINE ACTION SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9822
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="||PT|| TV CINE ACTION HD" tvg-logo="http://obsfullhd.tv:25461/images/016f660d4bdb0baa1e7d6781871097bd.png" group-title="PORTUGAL",||PT|| TV CINE ACTION HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9823
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="||PT|| TV CINE EMOTION HD" tvg-logo="http://obsfullhd.tv:25461/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGAL",||PT|| TV CINE EMOTION HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9826
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="||PT|| TV CINE EDITION SD" tvg-logo="http://obsfullhd.tv:25461/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGAL",||PT|| TV CINE EDITION SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9828
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="||PT|| TV CINE EDITION HD" tvg-logo="http://obsfullhd.tv:25461/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGAL",||PT|| TV CINE EDITION HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9829
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="||PT|| TV CINE EDITION FHD" tvg-logo="http://obsfullhd.tv:25461/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGAL",||PT|| TV CINE EDITION FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9830
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="||PT|| TV CINE TOP SD" tvg-logo="http://obsfullhd.tv:25461/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGAL",||PT|| TV CINE TOP SD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9831
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="||PT|| TV CINE TOP HD" tvg-logo="http://obsfullhd.tv:25461/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGAL",||PT|| TV CINE TOP HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9832
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="||PT|| FOX FHD" tvg-logo="http://obsfullhd.tv:25461/images/82bb6d766dcb1a26cc1d8159414cffe8.png" group-title="PORTUGAL",||PT|| FOX FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9801
+#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="||PT|| FOX COMEDY" tvg-logo="http://obsfullhd.tv:25461/images/eaf160998f55543898d69e8f7312a0b5.png" group-title="PORTUGAL",||PT|| FOX COMEDY
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9802
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| FOX COMEDY HD" tvg-logo="http://obsfullhd.tv:25461/images/eaf160998f55543898d69e8f7312a0b5.png" group-title="PORTUGAL",||PT|| FOX COMEDY HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9803
+#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="||PT|| FOX LIFE HD" tvg-logo="http://obsfullhd.tv:25461/images/3bf7dfab12e7df26d12cecd8fee92081.png" group-title="PORTUGAL",||PT|| FOX LIFE HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9805
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="||PT|| FOX CRIME HD" tvg-logo="http://obsfullhd.tv:25461/images/bee2b8ba13d20e68d28c0aba611d207c.png" group-title="PORTUGAL",||PT|| FOX CRIME HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9807
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="||PT|| FOX CRIME FHD" tvg-logo="http://obsfullhd.tv:25461/images/bee2b8ba13d20e68d28c0aba611d207c.png" group-title="PORTUGAL",||PT|| FOX CRIME FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9808
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="||PT|| AXN WHITE" tvg-logo="http://obsfullhd.tv:25461/images/a731bfae531aac96a35b35ddac2906f2.png" group-title="PORTUGAL",||PT|| AXN WHITE
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9809
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="||PT|| AXN WHITE HD" tvg-logo="http://obsfullhd.tv:25461/images/a731bfae531aac96a35b35ddac2906f2.png" group-title="PORTUGAL",||PT|| AXN WHITE HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9810
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="||PT|| AXN WHITE FHD" tvg-logo="http://obsfullhd.tv:25461/images/a731bfae531aac96a35b35ddac2906f2.png" group-title="PORTUGAL",||PT|| AXN WHITE FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9811
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| AXN BLACK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/AXN_BLACK.png" group-title="PORTUGAL",||PT|| AXN BLACK HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9813
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| AXN BLACK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/AXN_BLACK.png" group-title="PORTUGAL",||PT|| AXN BLACK FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9814
+#EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="||PT|| AXN" tvg-logo="http://obsfullhd.tv:25461/images/9df9dc140d139200eaefb695973cbb91.png" group-title="PORTUGAL",||PT|| AXN
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9815
+#EXTINF:-1 tvg-id="AXNPortugal.pt" tvg-name="||PT|| AXN FHD" tvg-logo="http://obsfullhd.tv:25461/images/9df9dc140d139200eaefb695973cbb91.png" group-title="PORTUGAL",||PT|| AXN FHD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9816
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-name="||PT|| SYFY HD" tvg-logo="http://obsfullhd.tv:25461/images/54ad341efee4737b060379574621665e.png" group-title="PORTUGAL",||PT|| SYFY HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9817
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="||PT|| AMC HD" tvg-logo="http://obsfullhd.tv:25461/images/2e5b2c5d03ddce773089fce1cdf99d47.png" group-title="PORTUGAL",||PT|| AMC HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9819
+
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| NOS STUDIOS HD" tvg-logo="http://obsfullhd.tv:25461/images/d8385ae12bfff4452edf5a10a040d875.png" group-title="PORTUGAL",||PT|| NOS STUDIOS HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9704
+
+#EXTINF:-1 tvg-id="FoxPortugal.pt" tvg-name="||PT|| FOX HD" tvg-logo="http://obsfullhd.tv:25461/images/82bb6d766dcb1a26cc1d8159414cffe8.png" group-title="PORTUGAL",||PT|| FOX HD
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9850
+
+#EXTINF:-1 tvg-id="Eleven1Portugal.pt" tvg-name="||PT|| ELEVEN 1 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png" group-title="PORTUGAL",||PT|| ELEVEN 1 FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16815
+#EXTINF:-1 tvg-id="Eleven2Portugal.pt" tvg-name="||PT|| ELEVEN 2 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png" group-title="PORTUGAL",||PT|| ELEVEN 2 FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16816
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="||PT|| TVCINE EMOTION FHD+" tvg-logo="http://obsfullhd.tv:25461/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGAL",||PT|| TVCINE EMOTION FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16820
+#EXTINF:-1 tvg-id="AMCPortugal.pt" tvg-name="||PT|| AMC FHD+" tvg-logo="http://obsfullhd.tv:25461/images/2e5b2c5d03ddce773089fce1cdf99d47.png" group-title="PORTUGAL",||PT|| AMC FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16822
+#EXTINF:-1 tvg-id="" tvg-name="||PT|| FOX MOVIES FHD+" tvg-logo="http://obsfullhd.tv:25461/images/3069e77a72bf1227aebae632616187b4.png" group-title="PORTUGAL",||PT|| FOX MOVIES FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16824
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="||PT|| AXN MOVIES FHD+" tvg-logo="http://obsfullhd.tv:25461/images/dbea70e8f6355213f09bbeb957806642.png" group-title="PORTUGAL",||PT|| AXN MOVIES FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16826
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="||PT|| AXN WHITE FHD+" tvg-logo="http://obsfullhd.tv:25461/images/a731bfae531aac96a35b35ddac2906f2.png" group-title="PORTUGAL",||PT|| AXN WHITE FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16827
+#EXTINF:-1 tvg-id="FoxComedyPortugal.pt" tvg-name="||PT|| FOX COMEDY FHD+" tvg-logo="http://obsfullhd.tv:25461/images/eaf160998f55543898d69e8f7312a0b5.png" group-title="PORTUGAL",||PT|| FOX COMEDY FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16829
+#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="||PT|| FOX LIFE FHD+" tvg-logo="http://obsfullhd.tv:25461/images/3bf7dfab12e7df26d12cecd8fee92081.png" group-title="PORTUGAL",||PT|| FOX LIFE FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16831
+#EXTINF:-1 tvg-id="SyfyPortugal.pt" tvg-name="||PT|| SYFY FHD+" tvg-logo="http://obsfullhd.tv:25461/images/54ad341efee4737b060379574621665e.png" group-title="PORTUGAL",||PT|| SYFY FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16832
+
+#EXTINF:-1 tvg-id="Eleven1Portugal.pt" tvg-name="||PT|| ELEVEN SPORTS 1 FHD+" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png" group-title="PORTUGAL",||PT|| ELEVEN SPORTS 1 FHD+
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/16840
+#EXTINF:-1 tvg-id="" tvg-name="||pt|| BTV 4k" tvg-logo="http://obsfullhd.tv:25461/images/46a0df9644737aa2bf7a326e0203ae1a.png" group-title="PORTUGAL",||pt|| BTV 4k
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36968
+
+#EXTINF:-1 tvg-id="Eleven1Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 1 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 1 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36985
+#EXTINF:-1 tvg-id="Eleven2Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 2 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 2 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36986
+#EXTINF:-1 tvg-id="Eleven3Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 3 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/3475ebd9a068546bcde697f23efb2e7f.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 3 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36987
+#EXTINF:-1 tvg-id="Eleven4Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 4 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/ef7204e55384ffe49c4f8b8296cb969e.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 4 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36988
+#EXTINF:-1 tvg-id="Eleven5Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 5 LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 5 LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36989
+
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="||pt|| A BOLA TV LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/0d863fbb82344a3488568b089d19ee8b.png" group-title="PORTUGAL",||pt|| A BOLA TV LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36991
+
+#EXTINF:-1 tvg-id="" tvg-name="||pt|| NOS STUDIOS LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/d8385ae12bfff4452edf5a10a040d875.png" group-title="PORTUGAL",||pt|| NOS STUDIOS LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/36999
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="||pt|| TVCINE TOP LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/875def18c8d9bca518f3d70e20e21dc7.png" group-title="PORTUGAL",||pt|| TVCINE TOP LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37000
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="||pt|| TVCINE EDITION LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/0a979bc0a6661467d75df1218a47faa6.png" group-title="PORTUGAL",||pt|| TVCINE EDITION LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37001
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="||pt|| TVCINE EMOTION LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/495e07a9757b3f65383ef96c70aedefe.png" group-title="PORTUGAL",||pt|| TVCINE EMOTION LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37002
+#EXTINF:-1 tvg-id="" tvg-name="||pt|| HOLLYWOOD LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/7d069e9e4b49faff10bfa8a43909f13f.png" group-title="PORTUGAL",||pt|| HOLLYWOOD LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37004
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="||pt|| AXN MOVIES LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/dbea70e8f6355213f09bbeb957806642.png" group-title="PORTUGAL",||pt|| AXN MOVIES LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37005
+#EXTINF:-1 tvg-id="FoxMoviesPortugal.pt" tvg-name="||pt|| FOX MOVIES LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/3069e77a72bf1227aebae632616187b4.png" group-title="PORTUGAL",||pt|| FOX MOVIES LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37006
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="||pt|| AXN WHITE LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/a731bfae531aac96a35b35ddac2906f2.png" group-title="PORTUGAL",||pt|| AXN WHITE LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37009
+#EXTINF:-1 tvg-id="FoxLifePortugal.pt" tvg-name="||pt|| FOX LIFE LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/3bf7dfab12e7df26d12cecd8fee92081.png" group-title="PORTUGAL",||pt|| FOX LIFE LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37011
+#EXTINF:-1 tvg-id="FoxCrimePortugal.pt" tvg-name="||pt|| FOX CRIME LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/bee2b8ba13d20e68d28c0aba611d207c.png" group-title="PORTUGAL",||pt|| FOX CRIME LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37012
+#EXTINF:-1 tvg-id="" tvg-name="||pt|| FOX COMEDY LOCAL" tvg-logo="http://obsfullhd.tv:25461/images/eaf160998f55543898d69e8f7312a0b5.png" group-title="PORTUGAL",||pt|| FOX COMEDY LOCAL
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37013
+
+#EXTINF:-1 tvg-id="Eleven1Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 1  4K" tvg-logo="http://obsfullhd.tv:25461/images/a4d0390c9fa2aeb2519ab452d7fd8bb7.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 1  4K
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37018
+#EXTINF:-1 tvg-id="Eleven2Portugal.pt" tvg-name="||pt|| ELEVEN SPORTS 2  4K" tvg-logo="http://obsfullhd.tv:25461/images/f171c94f945d5ce7cc2269b6e9f02743.png" group-title="PORTUGAL",||pt|| ELEVEN SPORTS 2  4K
+http://obsfullhd.tv:25461/Exc@UnableX/hpxmztZfcd7t/37019
